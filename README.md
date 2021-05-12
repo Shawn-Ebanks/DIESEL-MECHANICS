@@ -7,3 +7,11 @@ Here you will find links to other markdown pages, covering topics I've learned o
 Getting started ! 
 
 [Hydromechanical DieselFuel Injection Systems](https://shawn-ebanks.github.io/DIESEL-MECHANICS/Fuel-Systems)
+
+
+
+
+
+
+Thank you for visiting my site!
+[Shawn Ebanks GitHub Home Profile](https://github.com/Shawn-Ebanks)
